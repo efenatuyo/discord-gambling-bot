@@ -5,6 +5,14 @@ great gambling bot with funny responses (random responses)
 
 ## features
 
+### logging
+- will save every executed command in logs.txt
+
+### random responses
+- funny random response to every message (can be changed in config json)
+
+## Commands
+
 ### beg
 - random number between 0-1000
 - Normal beg: random number * 1, chance 50%
