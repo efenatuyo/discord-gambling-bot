@@ -3,6 +3,10 @@
 
 great gambling bot with funny responses (random responses)
 
+THIS WILL REQUIRE YOU TO INSTALL PYCORD AND DEINSTALL DISCORDPY
+
+pip uninstall discord, pip install py-cord
+
 ## features
 
 ### logging
