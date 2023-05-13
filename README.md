@@ -5,7 +5,7 @@ great gambling bot with funny responses (random responses)
 
 ## features
 
-## #beg
+### beg
 - random number between 0-1000
 - Normal beg: random number * 1, chance 50%
 - Super beg: random number * 2, chance 25%
