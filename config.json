@@ -1,0 +1,473 @@
+{
+    "cases": {
+        "Budget Flip": {
+            "case_cost": 450,
+            "card_previews": [
+                {
+                    "card_preview": "Crimson Bloom",
+                    "probability": 10.0,
+                    "value": 1202
+                },
+                {
+                    "card_preview": "Casual Sungla",
+                    "probability": 10.0,
+                    "value": 1003
+                },
+                {
+                    "card_preview": "Gucci Horsebi",
+                    "probability": 10.0,
+                    "value": 703
+                },
+                {
+                    "card_preview": "Gucci Geometr",
+                    "probability": 20.0,
+                    "value": 537
+                },
+                {
+                    "card_preview": "Color Changin",
+                    "probability": 10.0,
+                    "value": 50
+                },
+                {
+                    "card_preview": "Color Changin",
+                    "probability": 10.0,
+                    "value": 50
+                },
+                {
+                    "card_preview": "Rainbow Flame",
+                    "probability": 10.0,
+                    "value": 25
+                },
+                {
+                    "card_preview": ":]",
+                    "probability": 20.0,
+                    "value": 15
+                }
+            ]
+        },
+        "Circlet Case": {
+            "case_cost": 1448,
+            "card_previews": [
+                {
+                    "card_preview": "Purple Crystal",
+                    "probability": 5.0,
+                    "value": 5757
+                },
+                {
+                    "card_preview": "Diamond Crystal",
+                    "probability": 5.0,
+                    "value": 4378
+                },
+                {
+                    "card_preview": "HotThoth's Voice",
+                    "probability": 12.0,
+                    "value": 2009
+                },
+                {
+                    "card_preview": "Gucci Bloom Perfume",
+                    "probability": 38.0,
+                    "value": 854
+                },
+                {
+                    "card_preview": "Specular Egg Shell",
+                    "probability": 40.0,
+                    "value": 760
+                }
+            ]
+        },
+        "Purple Case": {
+            "case_cost": 18382,
+            "card_previews": [
+                {
+                    "card_preview": "Dominus Rex",
+                    "probability": 0.5,
+                    "value": 1500000
+                },
+                {
+                    "card_preview": "Purple Shaggy",
+                    "probability": 20.0,
+                    "value": 29331
+                },
+                {
+                    "card_preview": "Purple Alien",
+                    "probability": 19.5,
+                    "value": 9416
+                },
+                {
+                    "card_preview": "Purple Crystal",
+                    "probability": 30.0,
+                    "value": 6728
+                },
+                {
+                    "card_preview": "Agonizingly Ugly Hat",
+                    "probability": 30.0,
+                    "value": 808
+                }
+            ]
+        },
+        "Bucket Flip": {
+            "case_cost": 44500,
+            "card_previews": [
+                {
+                    "card_preview": "The Agonizingly Ugly Hat",
+                    "probability": 50.0,
+                    "value": 83931
+                },
+                {
+                    "card_preview": "Gucci Sunglasses",
+                    "probability": 10.0,
+                    "value": 669
+                },
+                {
+                    "card_preview": "Gucci Horsebit Loafers",
+                    "probability": 10.0,
+                    "value": 655
+                },
+                {
+                    "card_preview": "Gucci Geometric Print Shirt",
+                    "probability": 10.0,
+                    "value": 630
+                },
+                {
+                    "card_preview": "GucciGhost Backpack",
+                    "probability": 10.0,
+                    "value": 593
+                },
+                {
+                    "card_preview": "Gucci Spiked Leather Jacket",
+                    "probability": 10.0,
+                    "value": 556
+                }
+            ]
+        },
+        "Federation Case": {
+            "case_cost": 94210,
+            "card_previews": [
+                {
+                    "card_preview": "Earl of the Fanciful",
+                    "probability": 0.43,
+                    "value": 1600000
+                },
+                {
+                    "card_preview": "Countess of the Fanciful",
+                    "probability": 0.43,
+                    "value": 1000000
+                },
+                {
+                    "card_preview": "Disgraced Baroness",
+                    "probability": 2.17,
+                    "value": 760000
+                },
+                {
+                    "card_preview": "Duchess of the Fanciful",
+                    "probability": 0.43,
+                    "value": 570000
+                },
+                {
+                    "card_preview": "Archduchess of the Fanciful",
+                    "probability": 0.43,
+                    "value": 550000
+                },
+                {
+                    "card_preview": "Duke of the Fanciful",
+                    "probability": 4.35,
+                    "value": 360000
+                },
+                {
+                    "card_preview": "Disgraced Baroness",
+                    "probability": 0.43,
+                    "value": 270000
+                },
+                {
+                    "card_preview": "Viscount of the Fanciful",
+                    "probability": 2.17,
+                    "value": 250000
+                },
+                {
+                    "card_preview": "Disgraced Starstone",
+                    "probability": 13.04,
+                    "value": 50500
+                },
+                {
+                    "card_preview": "Ruby Starstone",
+                    "probability": 17.39,
+                    "value": 50379
+                },
+                {
+                    "card_preview": "Emerald Starstone",
+                    "probability": 17.39,
+                    "value": 35188
+                },
+                {
+                    "card_preview": "Sapphire Starstone",
+                    "probability": 41.3,
+                    "value": 31657
+                }
+            ]
+        }
+    },
+    "currency": {
+    },
+    "messages": {
+        "cooldown": {
+            "title": [
+                "Take a chill pill!",
+                "Hold your horses!",
+                "Patience is a virtue!",
+                "Relax and enjoy the cooldown!",
+                "Just a little longer..."
+            ],
+            "messages": [
+                "Hey, yo! You're too quick for this command. Let's slow-mo it for {cooldown_time} seconds.",
+                "Oops! This command is taking a coffee break. Join it and wait for {cooldown_time} seconds.",
+                "Patience, young Jedi! The command needs {cooldown_time} seconds to recharge its awesomeness.",
+                "Beep boop... Command under maintenance. Estimated time: {cooldown_time} seconds. Stay tuned!",
+                "Attention! Command cooldown in progress. Dance like nobody's watching for {cooldown_time} seconds."
+            ]
+        },
+        "not_enough_balance": {
+            "title": [
+                "Broke Bank Alert!",
+                "Coins on Vacation",
+                "Empty Pockets Syndrome",
+                "Balance: Low Battery",
+                "Bank Account in Hibernation"
+            ],
+            "messages": [
+                "Oops! It seems like your piggy bank is on a vacation. Time to start hunting for loose change!",
+                "Warning! Your balance is feeling a bit lonely. Give it some company by depositing more coins!",
+                "Oh no! Your wallet is as empty as a deserted island. Time to go on a treasure hunt for some funds!",
+                "Beep boop! Insufficient funds detected. Please insert more coins to continue the fun!",
+                "Attention! Your balance is taking a power nap. Wake it up by adding some moolah!"
+            ]
+        },
+        "give_cash": {
+            "title": [
+                "Cash Transfer Complete",
+                "Cash Injection Successful",
+                "Generosity in Action",
+                "Coins Delivered Safely",
+                "Fortune Smiles Upon"
+            ],
+            "messages": [
+                "Gave {user_mention} {amount} - 5% fee cash who now has a total of {user_total} cash.",
+                "Sent {amount} - 5% fee cash to {user_mention} who now has a balance of {user_total} cash.",
+                "{user_mention} just received {amount} - 5% fee cash and now possesses a total of {user_total} cash.",
+                "Cash has magically appeared in {user_mention}'s account. They now have {user_total} cash.",
+                "{user_mention} is now {amount} - 5% fee cash richer, with a total balance of {user_total} cash."
+            ]
+        },
+        "send_cash_self": {
+            "title": [
+                "No Self-Sending Allowed!",
+                "Mirror Reflection Error",
+                "Oops! You're Talking to Yourself",
+                "Sending Cash to Yourself? Not Today!",
+                "Self-Financial Transaction Blocked"
+            ],
+            "messages": [
+                "Hey there, {user_mention}! Sending cash to yourself won't magically double it. Save it for later!",
+                "Woah, slow down, {user_mention}! You can't send cash to yourself. Invest in a clone if you need a recipient!",
+                "Uh-oh! {user_mention}, trying to send cash to yourself? That's some serious self-dependency!",
+                "Sorry, {user_mention}! Our financial system refuses self-sending operations. Try sending it to a friend instead!",
+                "Attention, {user_mention}! Sending cash to yourself violates the law of financial physics. Better find another recipient!"
+            ]
+        },
+        "send_negative_cash": {
+            "title": [
+                "Negative Transaction Rejected",
+                "Invalid Monetary Warp Detected",
+                "Negative Numbers Don't Pay Off",
+                "Oops! Negative Giving Not Allowed",
+                "No Credits for Minus Figures"
+            ],
+            "messages": [
+                "Hey {user_mention}, you can't give a negative amount of cash! Please enter a positive value.",
+                "Oops! Negative cash doesn't exist in our financial realm, {user_mention}. Try a positive value instead.",
+                "Attention, {user_mention}! Our financial system rejects negative transactions. Stick with positive amounts!",
+                "Sorry, {user_mention}! Giving negative cash is against the laws of economics. Positive values only!",
+                "Negative numbers are a no-go, {user_mention}. Our monetary system craves positivity!"
+            ]
+        },
+        "successful_beg": {
+            "title": [
+                "Begging Success!",
+                "Begging Pays Off",
+                "A Little Beggar's Luck",
+                "Begging Triumph",
+                "Fortune Smiles Upon the Beggar"
+            ],
+            "messages": [
+                "Wow! {user_mention} begged like a little beggar and managed to collect {amount} cash. Now they have a total of {total_amount} cash.",
+                "Incredible! {user_mention} begged their heart out and received {amount} cash. Their total balance is now {total_amount} cash.",
+                "Unbelievable! {user_mention} begged and begged until they amassed {amount} cash. Their total amount now stands at {total_amount} cash.",
+                "Hooray! {user_mention} embraced their inner beggar and acquired {amount} cash. They now have a total of {total_amount} cash.",
+                "The streets were kind to {user_mention} as they begged their way to {amount} cash. Their total balance now sits at {total_amount} cash."
+            ]
+        },
+        "failed_beg": {
+            "title": [
+                "Rejection Received",
+                "Begging Denied",
+                "A Little Beggar's Disappointment",
+                "Begging Unsuccessful",
+                "Fortune Frowns Upon the Beggar"
+            ],
+            "messages": [
+                "Oh no! {user_mention}'s begging attempts were met with refusal. They didn't receive any cash and their balance remains unchanged.",
+                "Unfortunately, {user_mention} was denied their request for cash while begging. Their total balance remains the same.",
+                "{user_mention} begged but luck wasn't on their side. They received no cash, leaving their balance unaffected.",
+                "Despite {user_mention}'s efforts in begging, no one offered them any cash. Their total balance remains unchanged.",
+                "It seems luck wasn't in favor of {user_mention} as they received no cash despite their begging. Their balance remains the same."
+            ]
+        },
+        "failed_rob_not_enough_author_money": {
+            "title": [
+                "Robbery Regrets",
+                "Think Twice Before Robbing",
+                "Robbery Reality Check",
+                "Not Enough Cash for Robbing",
+                "Explore Other Options"
+            ],
+            "messages": [
+                "Hey, {user_mention}! Robbing someone with your current cash balance isn't the brightest idea. Try earning more money before attempting a robbery.",
+                "Before you consider robbing someone, {user_mention}, remember that having a higher cash balance improves your chances of success.",
+                "Robbing others can be risky, especially if you have less than 1000 cash, {user_mention}. Focus on earning more money first.",
+                "Instead of robbing someone, {user_mention}, why not explore other ways to earn cash and increase your balance?",
+                "Robbing someone is not recommended when you have less than 1000 cash, {user_mention}. Consider alternative methods to boost your cash balance."
+            ]
+        },
+        "failed_rob_not_enough_target_money": {
+            "title": [
+                "No Riches to Steal",
+                "Empty Pockets Alert",
+                "Bad Timing for a Heist",
+                "Broke as a Joke",
+                "Target Too Penniless"
+            ],
+            "messages": [
+                "Hey, {user_mention}! Looks like you stumbled upon someone with empty pockets. It's like trying to rob a piggy bank with no coins. Better luck next time!",
+                "Uh-oh, {user_mention}! The person you're eyeing up for a robbery seems to have a wallet as empty as a vacuum cleaner bag. Can't squeeze out any cash there!",
+                "You might want to reconsider your target, {user_mention}. It seems like they've been living life on a shoestring budget. Robbing them would be like taking candy from a baby... who doesn't have any candy.",
+                "Well, well, {user_mention}, it appears that the person you're thinking of robbing is as financially challenged as a hamster on a wheel. Time to find someone with more moolah!",
+                "Sorry to burst your bubble, {user_mention}, but robbing someone with such a tiny cash balance is like trying to strike gold in a pigsty. Time to set your sights on a wealthier target!"
+            ]
+        },
+        "success_robbery": {
+            "title": [
+                "Robbery Triumph!",
+                "Sweet Victory!",
+                "Cash, Caper, and Comedy!",
+                "Robbery Genius Strikes!",
+                "Sneaky Success!"
+            ],
+            "messages": [
+                "{user_mention}, you sly fox! Your successful robbery scored you {cash_stolen} cash. Time to treat yourself to a luxurious getaway or maybe just an extra-large pizza!",
+                "Well, well, well, {user_mention}! Your criminal brilliance paid off, and you walked away with {cash_stolen} cash. It's raining money, so go ahead and make it drizzle!",
+                "Hooray! {user_mention} pulled off the ultimate heist and escaped with {cash_stolen} cash. Don't forget to twirl your imaginary mustache and celebrate your mastermind status!",
+                "Incredible, {user_mention}! You've proven that you're not just a regular thief but a smooth operator. Enjoy your {cash_stolen} cash and let the world marvel at your audacity!",
+                "Bravo, {user_mention}! Your robbery skills are unparalleled. You managed to snag {cash_stolen} cash, leaving your target scratching their head and wondering how they got outsmarted!"
+            ]
+        },
+        "failed_robbery": {
+            "title": [
+                "Robbery Gone Bananas",
+                "Epic Fail: The Great Robbery",
+                "When Robbery Plans Backfire",
+                "The Not-So-Great Escape",
+                "Comedy of Errors: Failed Robbery"
+            ],
+            "messages": [
+                "Oh no, {user_mention}! Your robbery attempt took an unexpected turn. In the chaos, you lost {cash_lost} of your own money. It's like a magic trick gone wrong!",
+                "Oopsie daisy! {user_mention}, your robbery skills need a little more finesse. You also misplaced {cash_lost} of your own funds. Time to brush up on your criminal escapades!",
+                "Well, well, well, what do we have here, {user_mention}? A failed robbery with a twist! You lost {cash_lost} of your own in the process. Looks like karma has a sense of humor!",
+                "Oh dear, {user_mention}! It seems your robbery plan was more of a comedy skit than a successful heist. Your own money decided to pull a disappearing act, leaving you scratching your head!",
+                "Oops-a-daisy! {user_mention}, your grand robbery scheme turned into a slapstick routine. In a hilarious twist, you also misplaced {cash_lost} of your own funds. Better luck next time, and remember, timing is everything!"
+            ]
+        },
+        "failed_robbery_self": {
+            "title": [
+                "Robbery Self-Sabotage",
+                "The Art of Robbing Yourself",
+                "Failed Self-Robbery Attempt",
+                "When You're Your Own Worst Enemy",
+                "The Great Self-Robbery Fail"
+            ],
+            "messages": [
+                "{user_mention}, you can't outsmart yourself! Attempting to rob yourself only left you feeling confused and empty-handed. It's time to rethink your criminal mastermind strategies!",
+                "Well, well, well, {user_mention}! Trying to rob yourself? That's a new level of creativity! Unfortunately, you ended up with nothing but a good laugh and a reminder to aim for more realistic targets.",
+                "Oh, {user_mention}, the paradox of robbing oneself! You embarked on a daring adventure to steal from yourself, only to realize that the greatest thief is none other than... you! Time to keep your money in a safer place.",
+                "What an interesting choice, {user_mention}! Attempting to rob yourself is a testament to your unique criminal genius. Alas, you couldn't trick yourself, and all you got was a valuable lesson in the importance of self-awareness.",
+                "Well, {user_mention}, looks like you took the saying 'keep your friends close, but your enemies closer' a bit too literally. Attempting to rob yourself was quite the comedic act, leaving you with nothing but a bewildered expression and a tale to tell!"
+            ]
+        },
+        "dice_won": {
+            "title": [
+                "Dice Dynamo!",
+                "Rollin' Champion!",
+                "Victorious Vibes!",
+                "Dice Demolisher!",
+                "The Winning Whirl!"
+            ],
+            "messages": [
+                "Congratulations, {user_mention}! You rolled a {player_roll}, and the bot rolled a {bot_roll}. Lady Luck is definitely on your side! You won {winnings} credits! Prepare for a dice-licious celebration!",
+                "Wowza, {user_mention}! You rolled a {player_roll}, and the bot rolled a {bot_roll}. A roll of {player_roll} secures your triumph! You are the true dice conqueror! You won {winnings} credits! Time to do a happy dance with your lucky dice!",
+                "Hooray! {user_mention}, you rolled a {player_roll}, and the bot rolled a {bot_roll}. You claimed victory with your dice-rolling prowess! The dice gods have blessed you with {winnings} credits! Get ready to paint the town red with dice-shaped confetti!",
+                "Unbelievable, {user_mention}! You rolled a {player_roll}, and the bot rolled a {bot_roll}. Your roll of {player_roll} blew the dice away! You've won {winnings} credits! Prepare to embark on a dice-venture like no other!",
+                "Incredible luck, {user_mention}! You rolled a {player_roll}, and the bot rolled a {bot_roll}. With a roll of {player_roll}, you've proven that dice bow down to you! Enjoy your winnings of {winnings} credits! You're a dice-rolling legend in the making!"
+            ]
+        },
+        "dice_lost": {
+            "title": [
+                "Dice Disaster!",
+                "Rollin' Wipeout!",
+                "Defeated by Dice!",
+                "The Bitter Roll!",
+                "No Dice Magic Today!"
+            ],
+            "messages": [
+                "Oh no, {user_mention}! You rolled a {player_roll}, and the bot rolled a {bot_roll}. Your roll of {player_roll} missed the mark. The dice had a good laugh, and you lost {loss} credits. Looks like the dice pulled a sneaky trick on you!",
+                "Oopsie daisy, {user_mention}! You rolled a {player_roll}, and the bot rolled a {bot_roll}. It seems luck took a detour with your roll of {player_roll}. You've lost {loss} credits. Don't worry, though. The dice can be fickle friends!",
+                "Well, well, well, {user_mention}! You rolled a {player_roll}, and the bot rolled a {bot_roll}. Lady Luck decided to take a nap when you rolled a {player_roll}, and you lost {loss} credits. It's like the dice were playing a prank on you!",
+                "Oops! {user_mention}, you rolled a {player_roll}, and the bot rolled a {bot_roll}. Your roll of {player_roll} missed the target. You've lost {loss} credits. Looks like the dice were in a mischievous mood today!",
+                "Oh, the dicey disappointment, {user_mention}! You rolled a {player_roll}, and the bot rolled a {bot_roll}. With a roll of {player_roll}, you ended up losing {loss} credits. Maybe the dice had an agenda of their own!"
+            ]
+        },
+        "dice_tie": {
+            "title": [
+                "Dicey Standoff!",
+                "The Tied Throwdown!",
+                "Epic Dice Battle!",
+                "When Dice Collide!",
+                "The Great Tiebreaker!"
+            ],
+            "messages": [
+                "It's a tie, {user_mention}! You rolled a {player_roll}, and the bot rolled a {bot_roll}. The dice are locked in a fierce showdown, but no one comes out victorious this time! It's time for a tiebreaker round!",
+                "Whoa, {user_mention}! It's a dicey standoff! You rolled a {player_roll}, and the bot rolled a {bot_roll}. The dice seem to be on equal footing. Prepare for an epic rematch to break this tie!",
+                "Incredible, {user_mention}! It's a tie! You rolled a {player_roll}, and the bot rolled a {bot_roll}. The dice are having a friendly competition, and neither wants to back down. It's time to roll again and settle this!",
+                "What are the odds, {user_mention}? It's a tie! You rolled a {player_roll}, and the bot rolled a {bot_roll}. The dice are locked in a fierce battle, refusing to declare a winner. Get ready for a thrilling tiebreaker round!",
+                "Aha, {user_mention}! The dice have conspired to create a tie! You rolled a {player_roll}, and the bot rolled a {bot_roll}. The dice seem to be playing a game of cat and mouse. Prepare for an epic rematch to determine the ultimate victor!"
+            ]
+        },
+        "insufficient_funds": {
+            "title": [
+                "Betting Mishap!",
+                "Empty Pockets!",
+                "No Dough for the Bet!",
+                "Where Did It Go?",
+                "Betting on Thin Air!"
+            ],
+            "messages": [
+                "Oops, {user_mention}! It seems you don't have enough credits to place that bet. Did a sneaky squirrel steal your gambling fund? Time to save up some more before trying your luck again!",
+                "Oh dear, {user_mention}! Your pockets are feeling rather light, and you don't have enough credits for the bet. Looks like the credit fairy went on vacation! Better go on a treasure hunt to replenish your gambling stash!",
+                "Uh-oh, {user_mention}! It appears your credits mysteriously vanished, and now you don't have enough for the bet. Did a mischievous ghost play a trick on you? Better luck next time, once you've found your missing credits!",
+                "Oh no, {user_mention}! It seems you're running low on credits and can't afford the bet. Did a money-eating monster pay you a visit? Time to embark on an epic quest to replenish your gambling funds!",
+                "Well, well, well, {user_mention}! It looks like your pockets are feeling rather empty, and you can't place that bet. Did a mischievous leprechaun steal your pot of gambling gold? Time to track down that sneaky little rascal!"
+            ]
+        }
+    },
+    "discord": {
+        "owners": [],
+        "token": ""
+    }
+}
