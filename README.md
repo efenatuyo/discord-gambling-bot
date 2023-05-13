@@ -47,4 +47,4 @@ great gambling bot with funny responses (random responses)
 
 
 
-this project will proballyy continue
+this project will probally continue
